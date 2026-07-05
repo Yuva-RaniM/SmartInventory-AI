@@ -1,6 +1,5 @@
 # 🚀 SmartInventory AI
 
-::: {align="center"}
 # AI-Powered Revenue Recovery & Inventory Intelligence System
 
 ### **Predict Early • Recover Revenue • Maximize Profit**
@@ -11,7 +10,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-green?logo=microsoftexcel)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
-:::
+
 
 > **An AI-powered decision support platform that predicts product
 > expiry, forecasts demand, estimates revenue at risk, and recommends
@@ -35,7 +34,6 @@
 -   [📁 Project Structure](#-project-structure)
 -   [⚙️ Installation](#️-installation)
 -   [🚀 Deployment](#-deployment)
--   [📸 Screenshots](#-screenshots)
 -   [📈 Results](#-results)
 -   [🔮 Future Enhancements](#-future-enhancements)
 -   [👨‍💻 Author](#-author)
@@ -143,15 +141,19 @@ Excel → SQL → Power BI → Streamlit
 
 # 🛠️ Technology Stack
 
-  Layer         Technologies
-  ------------- ---------------------------
-  Programming   Python
-  Database      SQL
-  Analytics     Excel
-  BI            Power BI
-  Web           Streamlit
-  ML            Scikit-learn, XGBoost
-  Libraries     Pandas, NumPy, Matplotlib
+| Layer | Technologies |
+|--------|--------------|
+| Programming Language | Python |
+| Database | SQL (MySQL / PostgreSQL) |
+| Data Analysis | Microsoft Excel |
+| Business Intelligence | Power BI |
+| Web Framework | Streamlit |
+| Machine Learning | Scikit-learn, XGBoost |
+| Python Libraries | Pandas, NumPy, Matplotlib, Plotly |
+| Data Preprocessing | Scikit-learn |
+| Version Control | Git, GitHub |
+| Development Environment | Visual Studio Code, Jupyter Notebook |
+| Deployment | Streamlit Community Cloud |
 
 # 📊 Dashboard Modules
 

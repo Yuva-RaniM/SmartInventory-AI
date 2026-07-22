@@ -1,0 +1,10 @@
+{
+    "Products_Analysed": 32961,
+    "High_Risk_Products": 4888,
+    "Revenue_at_Risk": 323975.84,
+    "Actual_Recovered_Revenue": 72894.56,
+    "Expected_Recovery": 259180.67,
+    "Estimated_Waste_Reduction_Pct": 80.0,
+    "Overall_Inventory_Health_Pct": 80.0,
+    "Recovery_Method": "Expiry-risk value after recommended markdown; capped at revenue at risk"
+}
